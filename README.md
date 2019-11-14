@@ -25,5 +25,6 @@
 •Used Bootstrap dismissable alerts for fron-end views
 ### •Used Passport Authentication Methods  
 •implented local strategy  
-### •Used Mongoose to interface between API & database  
-•Managed relational database translation between API & database Objects via ODM library
+### •Interfaced Mongoose with MongoDB.Atlas   
+•Used Mongoose models to map between API & MongoDB objects
+•Used Mongoose methods to validate and query data in MongoDB.Atlas

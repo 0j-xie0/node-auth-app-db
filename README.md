@@ -18,15 +18,16 @@
 
 # Tasks Performed  
 ### •Implemented Express Server Framework  
-•Used router methods 
+•Created router middleware for endpoint handling
+•Created router middleware for user handling
 ### •Implemented EJS Templates  
 •Used express-ejs-layouts for front-end views  
-•Used Bootswatch CSS styles for fron-end views  
-•Used Bootstrap dismissable alerts for fron-end views
+•Used Bootswatch CSS styles for front-end views  
+•Used Bootstrap dismissable alerts for front-end views
 ### •Utilized BCRYPT for Password Hashing
 ### •Implemented Passport
 •Implented local strategy  
 •Used Passport methods for user authentication and validation
 ### •Interfaced Mongoose with MongoDB.Atlas   
 •Used Mongoose models to map between API & MongoDB objects  
-•Used Mongoose methods to validate and query data in MongoDB.Atlas
+•Used Mongoose methods to validate & query data in MongoDB.Atlas

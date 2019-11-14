@@ -1,4 +1,4 @@
-# NodeJS App with Express server  
+# NodeJS App with Express server
 # Passport authentication and cloud database with MongoDB.Atlas
 
 # Installation   

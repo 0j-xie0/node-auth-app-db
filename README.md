@@ -26,5 +26,5 @@
 ### •Used Passport Authentication Methods  
 •implented local strategy  
 ### •Interfaced Mongoose with MongoDB.Atlas   
-•Used Mongoose models to map between API & MongoDB objects
+•Used Mongoose models to map between API & MongoDB objects  
 •Used Mongoose methods to validate and query data in MongoDB.Atlas

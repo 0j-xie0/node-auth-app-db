@@ -18,10 +18,10 @@
 
 # Tasks Performed  
 ### •Implemented Express Server Framework  
-•Created router middleware for endpoint handling
+•Created router middleware for endpoint handling  
 •Created router middleware for user handling
 ### •Implemented EJS Templates  
-•Used express-ejs-layouts for front-end views  
+•Used Express-EJS layouts for front-end views  
 •Used Bootswatch CSS styles for front-end views  
 •Used Bootstrap dismissable alerts for front-end views
 ### •Utilized BCRYPT for Password Hashing

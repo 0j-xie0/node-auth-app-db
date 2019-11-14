@@ -20,8 +20,8 @@
 ### •Implemented Express Server Framework  
 •Used router methods 
 ### •Implemented EJS Templates  
-•Used express-ejs-layouts for front-end views
-•Used Bootswatch CSS styles for fron-end views
+•Used express-ejs-layouts for front-end views  
+•Used Bootswatch CSS styles for fron-end views  
 •Used Bootstrap dismissable alerts for fron-end views
 ### •Used Passport Authentication Methods  
 •implented local strategy  

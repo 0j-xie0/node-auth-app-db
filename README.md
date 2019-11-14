@@ -1,4 +1,5 @@
-# NodeJS App with Express server. Passport authentication and cloud database with MongoDB.Atlas
+# NodeJS App with Express server  
+# Passport authentication and cloud database with MongoDB.Atlas
 
 # Installation   
 •Install NodeJS v12.x.x   

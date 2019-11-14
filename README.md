@@ -17,9 +17,11 @@
 
 
 # Tasks Performed  
+### •Implemented Express Server Framework  
+•Used router methods 
+
 ### •Used Passport Authentication Methods  
 •implented local strategy  
-
 
 ### •Used Mongoose to interface between API & database  
 •Managed relational database translation between API & database Objects via ODM library

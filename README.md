@@ -17,10 +17,9 @@
 
 
 # Tasks Performed  
-### •Used Mongoose methods to make HTTP requests & parse incoming JSON data  
-### •Created Router node module to handle request & response routing  
-### •Used Boom methods for HTTP error handling 
+### •Used Passport Authentication Methods  
+•implented local strategy  
+
+
 ### •Used Mongoose to interface between API & database  
-•Managed relational database translation between API & database Objects via ODM library  
-### •Generated Swagger compliant documentation with Fastify-Swagger  
-### •Implemented JWT compliance via Fastify-JWT
+•Managed relational database translation between API & database Objects via ODM library
